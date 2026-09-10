@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhatanisha/DSA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
