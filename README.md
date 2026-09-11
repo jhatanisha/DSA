@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhatanisha/DSA/tree/master/0011-container-with-most-water) |
+| [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0520-detect-capital](https://github.com/jhatanisha/DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/jhatanisha/DSA/tree/master/0859-buddy-strings) |
+| [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
 ## String Matching
 |  |
 | ------- |
