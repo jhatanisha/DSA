@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhatanisha/DSA/tree/master/0011-container-with-most-water) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhatanisha/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
