@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhatanisha/DSA/tree/master/0011-container-with-most-water) |
+| [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhatanisha/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhatanisha/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhatanisha/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
