@@ -4,23 +4,20 @@ public:
         stringstream ss(sentence);
         string word, ans;
         int count = 1;
-
-        while (ss >> word) {
-            if (word[0]!='a' && word[0]!='e' && word[0]!='i' &&
-                word[0]!='o' && word[0]!='u' &&
-                word[0]!='A' && word[0]!='E' && word[0]!='I' &&
-                word[0]!='O' && word[0]!='U') {
-                
-                word += word[0];
-                word.erase(0,1);
-            }
-
-            word += "ma";
-            
-            for(int i=0; i<count; i++)
-                word += 'a';
-            ans += word + " ";
-            count++;
+        while(ss>>word){
+            char first = word[0];
+            if(first != 'a' && first != 'e' && first != 'i' &&
+                first != 'o' && first != 'u' &&
+                first != 'A' && first != 'E' && first != 'I' &&
+                first != 'O' && first != 'U'){
+                    word = word.substr(1) + first;
+                }
+                word+="ma";
+                for(int i=0;i<count;i++){
+                    word+='a';
+                }
+                ans+=word+" ";
+                count++;
         }
         ans.pop_back();
         return ans;
