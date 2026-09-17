@@ -34,11 +34,13 @@
 | [0824-goat-latin](https://github.com/jhatanisha/DSA/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/jhatanisha/DSA/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
+| [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,12 +77,22 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
