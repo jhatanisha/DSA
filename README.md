@@ -35,6 +35,7 @@
 | [0859-buddy-strings](https://github.com/jhatanisha/DSA/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
 | [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -95,4 +96,12 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/jhatanisha/DSA/tree/master/1392-longest-happy-prefix) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
