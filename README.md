@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhatanisha/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/jhatanisha/DSA/tree/master/0014-longest-common-prefix) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jhatanisha/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/jhatanisha/DSA/tree/master/0520-detect-capital) |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jhatanisha/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
