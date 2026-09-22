@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhatanisha/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jhatanisha/DSA/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jhatanisha/DSA/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
