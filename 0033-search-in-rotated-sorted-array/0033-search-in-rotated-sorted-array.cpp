@@ -1,9 +1,26 @@
 class Solution {
-public:
-    int search(vector<int>& nums, int target) {
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target){
-                return i;
+  public:
+    int search(vector<int>& arr, int key) {
+        // Code Here
+        int low=0,high=arr.size()-1;
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(arr[mid]==key){
+                return mid;
+            }
+            if (arr[mid]>=arr[low]){
+                if(key>=arr[low]&&key<arr[mid]){
+                    high=mid-1;
+                }else{
+                    low=mid+1;
+                }
+            }
+            else{
+                if(key>arr[mid]&&key<=arr[high]){
+                    low=mid+1;
+                }else{
+                    high=mid-1;
+                }
             }
         }
         return -1;
