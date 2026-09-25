@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhatanisha/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -25,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
