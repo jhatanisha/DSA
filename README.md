@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhatanisha/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0859-buddy-strings](https://github.com/jhatanisha/DSA/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
@@ -77,6 +80,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -129,4 +133,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhatanisha/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
