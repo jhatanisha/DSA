@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/jhatanisha/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhatanisha/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -72,6 +74,7 @@
 | [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/jhatanisha/DSA/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
 ## Math
