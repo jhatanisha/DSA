@@ -24,6 +24,7 @@
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhatanisha/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jhatanisha/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1572-matrix-diagonal-sum](https://github.com/jhatanisha/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/jhatanisha/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
