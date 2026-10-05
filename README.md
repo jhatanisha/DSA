@@ -20,6 +20,7 @@
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/jhatanisha/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jhatanisha/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/jhatanisha/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jhatanisha/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jhatanisha/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jhatanisha/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
