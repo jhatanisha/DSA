@@ -20,6 +20,7 @@
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/jhatanisha/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jhatanisha/DSA/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/jhatanisha/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/jhatanisha/DSA/tree/master/1122-relative-sort-array) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/jhatanisha/DSA/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -156,5 +158,6 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/jhatanisha/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jhatanisha/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
