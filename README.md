@@ -30,6 +30,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jhatanisha/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jhatanisha/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jhatanisha/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jhatanisha/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,4 +168,5 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jhatanisha/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jhatanisha/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jhatanisha/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jhatanisha/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
