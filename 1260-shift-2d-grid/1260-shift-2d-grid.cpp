@@ -7,11 +7,11 @@ public:
         k=k % (n*m);
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                int pos = i * m + j;
-                int newPos = (pos + k) % (n * m);
+                int pos = i * m + j; //1D m convrt kro
+                int newPos = (pos + k) % (n * m);  /// shift kro k se %m*n kyuki last wali v sift krni h
 
-                int newRow = newPos / m;
-                int newCol = newPos % m;
+                int newRow = newPos / m;  //row m convert 
+                int newCol = newPos % m;// cool m convert 
 
                 ans[newRow][newCol] = grid[i][j];
             }
