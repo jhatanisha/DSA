@@ -48,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/jhatanisha/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/jhatanisha/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jhatanisha/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/jhatanisha/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
@@ -68,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/jhatanisha/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/jhatanisha/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/jhatanisha/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jhatanisha/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/jhatanisha/DSA/tree/master/0696-count-binary-substrings) |
