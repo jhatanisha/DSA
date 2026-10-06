@@ -46,6 +46,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@
 | [0014-longest-common-prefix](https://github.com/jhatanisha/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/jhatanisha/DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/jhatanisha/DSA/tree/master/0824-goat-latin) |
