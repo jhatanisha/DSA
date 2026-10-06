@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jhatanisha/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/jhatanisha/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
@@ -70,6 +71,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/jhatanisha/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/jhatanisha/DSA/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/jhatanisha/DSA/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/jhatanisha/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jhatanisha/DSA/tree/master/0925-long-pressed-name) |
@@ -148,12 +150,14 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jhatanisha/DSA/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/jhatanisha/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/jhatanisha/DSA/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
