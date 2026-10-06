@@ -24,7 +24,7 @@ public:
             if(haystack[i]==needle[l]){
                 i++;
                 l++;
-            }else if(i<n && haystack[i]!=needle[l]){
+            }else {
                 if(l==0){
                     i++;
                 }else{
