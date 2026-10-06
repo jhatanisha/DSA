@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jhatanisha/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/jhatanisha/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jhatanisha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/jhatanisha/DSA/tree/master/0917-reverse-only-letters) |
@@ -69,6 +70,7 @@
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/jhatanisha/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jhatanisha/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/jhatanisha/DSA/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/jhatanisha/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/jhatanisha/DSA/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
