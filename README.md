@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/jhatanisha/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jhatanisha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhatanisha/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jhatanisha/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jhatanisha/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -169,6 +171,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jhatanisha/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jhatanisha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/jhatanisha/DSA/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/jhatanisha/DSA/tree/master/0661-image-smoother) |
