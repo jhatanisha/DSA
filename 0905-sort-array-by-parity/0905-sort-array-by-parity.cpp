@@ -6,7 +6,7 @@ public:
         while(i<j){
             if(nums[i]%2==0){
                 i++;
-            }else if(nums[i]%2==1){
+            }else if(nums[j]%2==1){
                 j--;
             }else{
                 swap(nums[i],nums[j]);
