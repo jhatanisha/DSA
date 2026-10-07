@@ -13,8 +13,9 @@ public:
             }
         }
         for(auto p:mp){
-            while(p.second--){
+            while(p.second>0){
                 ans.push_back(p.first);
+                p.second--;
             }
         }
         return ans;
