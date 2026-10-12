@@ -46,6 +46,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhatanisha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jhatanisha/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jhatanisha/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/jhatanisha/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/jhatanisha/DSA/tree/master/0443-string-compression) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jhatanisha/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/jhatanisha/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jhatanisha/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/jhatanisha/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jhatanisha/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-buddy-strings](https://github.com/jhatanisha/DSA/tree/master/0859-buddy-strings) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jhatanisha/DSA/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/jhatanisha/DSA/tree/master/0202-happy-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jhatanisha/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jhatanisha/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/jhatanisha/DSA/tree/master/0883-projection-area-of-3d-shapes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jhatanisha/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
