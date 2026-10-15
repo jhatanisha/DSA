@@ -216,4 +216,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jhatanisha/DSA/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jhatanisha/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jhatanisha/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
