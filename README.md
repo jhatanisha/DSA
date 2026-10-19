@@ -48,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/jhatanisha/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jhatanisha/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jhatanisha/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/jhatanisha/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jhatanisha/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jhatanisha/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/jhatanisha/DSA/tree/master/0443-string-compression) |
@@ -159,6 +160,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/jhatanisha/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/jhatanisha/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jhatanisha/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -225,8 +227,10 @@
 | [0092-reverse-linked-list-ii](https://github.com/jhatanisha/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jhatanisha/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jhatanisha/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jhatanisha/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jhatanisha/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jhatanisha/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
